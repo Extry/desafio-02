@@ -1,0 +1,51 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  text-align: center;
+
+}
+
+.planet {
+
+  width: 540px;
+  text-align: center;
+  margin: 64px auto 64px;
+  line-height: 22px;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+}
+
+h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+
+}
+
+p span {
+  color: #828282;
+
+}
+
+strong {
+  color: #3F3D56;
+}
+
+.footer {
+  text-align: center;
+
+}
+
+.line {
+  margin: 0 auto 15px;
+  width: 391px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+}
+
+a+a {
+  margin-left: 42px;
+}
